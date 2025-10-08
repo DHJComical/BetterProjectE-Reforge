@@ -17,10 +17,6 @@ public class BetterProjectECoremod implements IFMLLoadingPlugin {
         Mixins.addConfiguration("mixins.betterprojecte.json");
     }
 
-    public String[] getASMTransformers() {
-        return new String[0];
-    }
-
     @Override
     public String[] getASMTransformerClass() {
         return new String[0];
@@ -34,7 +30,6 @@ public class BetterProjectECoremod implements IFMLLoadingPlugin {
     @Nullable
     @Override
     public String getSetupClass() {
-        // 我们没有Setup Class
         return null;
     }
 

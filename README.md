@@ -3,7 +3,7 @@
 **一个旨在增强等价交换重制版(ProjectE)的模组，赋予其转化桌识别、学习和复制带有NBT数据的物品的能力。**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
+![img.png](docs/img.png)
 ---
 
 ## 📖 简介
